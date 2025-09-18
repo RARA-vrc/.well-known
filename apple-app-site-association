@@ -1,0 +1,14 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["5LDJ2FH78F.rara.kuronekohiroba"],
+        "components": [
+          { "/": "/blackcat/*" },
+          { "/": "/index.html" },
+          { "/": "/*" }
+        ]
+      }
+    ]
+  }
+}
